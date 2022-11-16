@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "spring.datasource.jpa",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.jpa'"
+  },
+  {
+    "name": "spring.datasource.hibernate",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.hibernate'"
+  },
+  {
+    "name": "spring.datasource.ddl-auto",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.ddl-auto'"
+  }
+]}
